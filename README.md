@@ -32,6 +32,7 @@
 | [0906-walking-robot-simulation](https://github.com/RajRabadiya018/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajRabadiya018/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajRabadiya018/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RajRabadiya018/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RajRabadiya018/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RajRabadiya018/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -43,6 +44,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/RajRabadiya018/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/RajRabadiya018/Leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RajRabadiya018/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajRabadiya018/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RajRabadiya018/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -174,6 +176,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajRabadiya018/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajRabadiya018/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
