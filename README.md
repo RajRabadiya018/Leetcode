@@ -11,6 +11,7 @@
 | [0906-walking-robot-simulation](https://github.com/RajRabadiya018/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/RajRabadiya018/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajRabadiya018/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -43,6 +44,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajRabadiya018/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/RajRabadiya018/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/RajRabadiya018/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RajRabadiya018/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/RajRabadiya018/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -54,6 +56,7 @@
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RajRabadiya018/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -210,4 +213,5 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
