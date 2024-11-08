@@ -17,6 +17,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajRabadiya018/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/RajRabadiya018/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RajRabadiya018/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RajRabadiya018/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RajRabadiya018/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1940-maximum-xor-for-each-query](https://github.com/RajRabadiya018/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RajRabadiya018/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RajRabadiya018/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
@@ -209,6 +211,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/RajRabadiya018/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajRabadiya018/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/RajRabadiya018/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
