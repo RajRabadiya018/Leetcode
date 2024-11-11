@@ -30,6 +30,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RajRabadiya018/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajRabadiya018/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RajRabadiya018/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RajRabadiya018/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -90,6 +91,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RajRabadiya018/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RajRabadiya018/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RajRabadiya018/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajRabadiya018/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/RajRabadiya018/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/RajRabadiya018/Leetcode/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,4 +267,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
