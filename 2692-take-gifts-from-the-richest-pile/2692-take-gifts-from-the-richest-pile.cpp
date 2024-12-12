@@ -1,16 +1,20 @@
 class Solution {
 public:
-    long long pickGifts(vector<int>& g, int k) {
-        make_heap(g.begin(), g.end());
-        for (int i = 0, x = INT_MAX; i < k && x > 1; i++) {   
-            pop_heap(g.begin(), g.end());
-            x = g.back();
-         
-            g.back() = sqrt(g.back());
-            push_heap(g.begin(), g.end());
+    #define ll long long
+    long long pickGifts(vector<int>& gifts, int k) {
+        priority_queue<int> pq;
+        for(auto it: gifts) pq.push(it);
+
+        while(k--){
+            int x = pq.top();
+            pq.pop();
+            pq.push(sqrt(x));
         }
-       
-        return accumulate(g.begin(), g.end(), 0LL);
+        ll ans = 0LL;
+        while(!pq.empty()){
+            ans+=pq.top();
+            pq.pop();
+        }
+        return ans;
     }
 };
-        
