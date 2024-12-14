@@ -1,25 +1,25 @@
 class Solution {
 public:
+    #define ll long long
     long long continuousSubarrays(vector<int>& nums) {
-        int l = 0;
-        long long res = 0;  
-        deque<int> minD, maxD;
+        ll cnt = 0;
+        int l = 0, r = 0;
+        priority_queue<pair<int, int>> pq1;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq2;
+        
+        while (r < nums.size()) {
+            pq1.push({nums[r], r});
+            pq2.push({nums[r], r});
 
-        for (int r = 0; r < nums.size(); r++) {
-            while (!minD.empty() && nums[minD.back()] >= nums[r]) minD.pop_back();
-            while (!maxD.empty() && nums[maxD.back()] <= nums[r]) maxD.pop_back();
-            minD.push_back(r);
-            maxD.push_back(r);
-
-            while (nums[maxD.front()] - nums[minD.front()] > 2) {
+            while (!pq1.empty() && !pq2.empty() && (pq1.top().first - pq2.top().first) > 2) {
                 l++;
-                if (minD.front() < l) minD.pop_front();
-                if (maxD.front() < l) maxD.pop_front();
+                while (!pq1.empty() && pq1.top().second < l) pq1.pop();
+                while (!pq2.empty() && pq2.top().second < l) pq2.pop();
             }
 
-            res += r - l + 1;
+            cnt += (r - l + 1);
+            r++;
         }
-
-        return res;
+        return cnt;
     }
 };
