@@ -356,6 +356,7 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -363,6 +364,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/RajRabadiya018/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajRabadiya018/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajRabadiya018/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -378,6 +381,7 @@
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Dynamic Programming
 |  |
