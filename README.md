@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0494-target-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0494-target-sum) |
@@ -259,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajRabadiya018/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -289,6 +291,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/RajRabadiya018/Leetcode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
