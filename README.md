@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0494-target-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0494-target-sum) |
@@ -143,6 +144,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/RajRabadiya018/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RajRabadiya018/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
