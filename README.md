@@ -15,6 +15,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/RajRabadiya018/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/RajRabadiya018/Leetcode/tree/master/0859-design-circular-deque) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RajRabadiya018/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/RajRabadiya018/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/RajRabadiya018/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -148,6 +149,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/RajRabadiya018/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RajRabadiya018/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajRabadiya018/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
