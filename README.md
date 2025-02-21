@@ -109,6 +109,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajRabadiya018/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/RajRabadiya018/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajRabadiya018/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajRabadiya018/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -225,6 +226,7 @@
 | [0729-my-calendar-i](https://github.com/RajRabadiya018/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/RajRabadiya018/Leetcode/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/RajRabadiya018/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -465,6 +467,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RajRabadiya018/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RajRabadiya018/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -477,6 +480,7 @@
 | [0787-sliding-puzzle](https://github.com/RajRabadiya018/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/RajRabadiya018/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RajRabadiya018/Leetcode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajRabadiya018/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajRabadiya018/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RajRabadiya018/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -495,6 +499,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RajRabadiya018/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RajRabadiya018/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -507,6 +512,7 @@
 | [0854-making-a-large-island](https://github.com/RajRabadiya018/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/RajRabadiya018/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajRabadiya018/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajRabadiya018/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajRabadiya018/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
