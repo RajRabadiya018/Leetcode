@@ -128,6 +128,7 @@
 | [0432-all-oone-data-structure](https://github.com/RajRabadiya018/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajRabadiya018/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/RajRabadiya018/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajRabadiya018/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/RajRabadiya018/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajRabadiya018/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -406,6 +408,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajRabadiya018/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -447,6 +450,7 @@
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/RajRabadiya018/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajRabadiya018/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RajRabadiya018/Leetcode/tree/master/1304-longest-happy-string) |
