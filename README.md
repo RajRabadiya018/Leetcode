@@ -526,6 +526,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/RajRabadiya018/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RajRabadiya018/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/RajRabadiya018/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/RajRabadiya018/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajRabadiya018/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -559,6 +560,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajRabadiya018/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajRabadiya018/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/RajRabadiya018/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
