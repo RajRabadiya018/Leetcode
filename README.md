@@ -186,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/RajRabadiya018/Leetcode/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0812-rotate-string) |
