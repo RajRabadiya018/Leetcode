@@ -541,6 +541,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajRabadiya018/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/RajRabadiya018/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajRabadiya018/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajRabadiya018/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajRabadiya018/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RajRabadiya018/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -678,6 +679,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/RajRabadiya018/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajRabadiya018/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajRabadiya018/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/RajRabadiya018/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -693,6 +695,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajRabadiya018/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/RajRabadiya018/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Queue
 |  |
@@ -763,6 +766,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajRabadiya018/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RajRabadiya018/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/RajRabadiya018/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Merge Sort
 |  |
