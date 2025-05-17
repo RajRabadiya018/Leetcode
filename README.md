@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0368-largest-divisible-subset](https://github.com/RajRabadiya018/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -448,6 +449,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/RajRabadiya018/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajRabadiya018/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
