@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -166,6 +167,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/RajRabadiya018/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
@@ -364,6 +366,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/RajRabadiya018/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/RajRabadiya018/Leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/RajRabadiya018/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
