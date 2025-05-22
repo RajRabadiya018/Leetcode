@@ -161,6 +161,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RajRabadiya018/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RajRabadiya018/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RajRabadiya018/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -429,6 +430,7 @@
 | [3427-special-array-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/RajRabadiya018/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/RajRabadiya018/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RajRabadiya018/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
@@ -576,6 +579,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RajRabadiya018/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/RajRabadiya018/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3647-zero-array-transformation-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -610,6 +614,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajRabadiya018/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/RajRabadiya018/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
