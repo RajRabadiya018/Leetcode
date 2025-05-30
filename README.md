@@ -769,6 +769,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajRabadiya018/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajRabadiya018/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/RajRabadiya018/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RajRabadiya018/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -837,6 +838,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajRabadiya018/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RajRabadiya018/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajRabadiya018/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/RajRabadiya018/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajRabadiya018/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajRabadiya018/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RajRabadiya018/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
