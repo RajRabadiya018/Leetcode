@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/RajRabadiya018/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0189-rotate-array) |
@@ -568,6 +569,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/RajRabadiya018/Leetcode/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/RajRabadiya018/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
