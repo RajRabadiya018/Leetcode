@@ -13,6 +13,7 @@
 | [0135-candy](https://github.com/RajRabadiya018/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RajRabadiya018/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/RajRabadiya018/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
@@ -300,6 +302,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RajRabadiya018/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/RajRabadiya018/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RajRabadiya018/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -485,6 +488,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/RajRabadiya018/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -874,6 +878,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajRabadiya018/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
