@@ -24,6 +24,7 @@
 | [0494-target-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RajRabadiya018/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0704-binary-search](https://github.com/RajRabadiya018/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/RajRabadiya018/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -330,6 +331,7 @@
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/RajRabadiya018/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/RajRabadiya018/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RajRabadiya018/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
