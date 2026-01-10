@@ -243,6 +243,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/RajRabadiya018/Leetcode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/RajRabadiya018/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
@@ -531,6 +532,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/RajRabadiya018/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0283-move-zeroes) |
