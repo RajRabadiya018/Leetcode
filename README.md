@@ -184,6 +184,7 @@
 | [0001-two-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RajRabadiya018/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/RajRabadiya018/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
@@ -247,6 +248,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RajRabadiya018/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/RajRabadiya018/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/RajRabadiya018/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RajRabadiya018/Leetcode/tree/master/0768-partition-labels) |
