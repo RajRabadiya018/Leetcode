@@ -242,6 +242,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RajRabadiya018/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/RajRabadiya018/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0344-reverse-string) |
@@ -531,6 +532,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RajRabadiya018/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -839,6 +841,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/RajRabadiya018/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/RajRabadiya018/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajRabadiya018/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
