@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/RajRabadiya018/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RajRabadiya018/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/RajRabadiya018/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RajRabadiya018/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/RajRabadiya018/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RajRabadiya018/Leetcode/tree/master/0075-sort-colors) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RajRabadiya018/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/RajRabadiya018/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajRabadiya018/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RajRabadiya018/Leetcode/tree/master/0287-find-the-duplicate-number) |
